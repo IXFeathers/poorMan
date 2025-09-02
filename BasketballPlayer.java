@@ -1,7 +1,7 @@
 package prob1;
 
 /**
- * Represents a baskeball playerZZZ
+ * Represents a baskeball player
  *
  */
 public class BasketballPlayer {
@@ -84,13 +84,7 @@ public class BasketballPlayer {
 		return twoPointersMade;
 	}
 
-	/**
-	 * Gets the number of 3 point shots attempted.
-	 * @return the number of 3 point shots attempted.
-	 */
-	public int getThreePointersAttempted() {
-		return threePointersAttempted;
-	}
+	
 
 	/**
 	 * Gets the number of 3 point shots made.
